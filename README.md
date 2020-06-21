@@ -6,7 +6,7 @@ Coloco o nome e a descrição;
 O Pacote e o Java;
 Após em Generate;
 NA IDE, importo o projeto.
-
+----------------------------------------------------------------------------------------------------------------------------------------
 
 No Guithub
 criar novo repositório no guithub
@@ -14,7 +14,7 @@ copiar url
 dar o gt clone
 com o git
 git clone htt://...
-
+----------------------------------------------------------------------------------------------------------------------------------------
 Comitar (Fonte de pesquisa: http://guides.railsgirls.com/guides-ptbr/github)
 
 Na linha de comando –tenha certeza de que você entrou na sua pasta railsgirls utilizando cd–e insira:
